@@ -11136,7 +11136,7 @@ const server =
         "0.0.0.0",
         () => {
             console.log(
-                `Chavitoxo F1 Data Service V1.40.0 running on port ${PORT}`
+                `Chavitoxo F1 Data Service V1.41.0 running on port ${PORT}`
             );
 
             console.log(
